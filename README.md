@@ -12,6 +12,7 @@ Classified the dataset's structural dimensions, identifying cross-sectional, tim
 Conducted a missing data diagnosis, determining that Russia's exclusion from later periods followed a Missing Not At Random (MNAR) pattern tied to its removal from the index following market exit
 Built a bar chart visualizing currency valuations across the most recent cross-section (July 2024)
 Built a time-series visualization comparing valuation trends for selected currencies across the full sample period
+
 Key Findings
 Switzerland consistently ranks among the most overvalued currencies in the dataset, showing a +41.8% valuation premium in the July 2024 cross-section (n=54 countries)
 Japan stands out as a persistent outlier on the other end of the spectrum, remaining undervalued on average in every decade covered by the series (2000s, 2010s, 2020s)
