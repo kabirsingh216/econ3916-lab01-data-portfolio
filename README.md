@@ -1,5 +1,6 @@
 # econ3916-lab01-data-portfolio
 The Data Portfolio — Big Mac Index Analysis
+
 Objective:
 
 This project analyzes The Economist's Big Mac Index across 57 countries and 45 time periods (2000–2026) to evaluate currency valuation using purchasing power parity theory.
